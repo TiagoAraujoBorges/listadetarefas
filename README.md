@@ -1,4 +1,4 @@
-# TodoList / Lista de tarefas
+# To do List / Lista de tarefas
 Utilizando HTML / CSS / JavaScript
 
 lista editavel da tarefa
